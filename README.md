@@ -16,7 +16,7 @@ The following picture illustrates the database's structure:
    Notice that this repo uses [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
    These are a tool that allow us to work with very complicated projects by including git repos within other git repos,
    and here we use submodules to include the original pagila repo.
-   In order to clone the repo with the submodules, you need to run the commands
+   In order to clone the repo with the submodules, you need to run the commands please
    ```
    $ git clone https://github.com/mikeizbicki/pagila-hw
    $ cd pagila-hw
